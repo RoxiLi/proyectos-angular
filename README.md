@@ -47,7 +47,7 @@ Este proyecto contribui con [Darwin](https://github.com/darwinj94506 "Github per
 ### Tecnología
 El proyecto se realizo en contribuición con un grupo de estudiantes de la Universidad de las Fuerzas Armadas ESPE. Desarrolle fullstack en el módulo de medicina general-Trabajo Social. El proyecto salud espe backend es un proyecto realizado en spring boot, con una arquitectura de microservicios usando las herramientas open source de Netflix OSS como Eureka y Zuul. En el frontend con angular, tomando de base la plantilla Vex. La metodología fue  `SCRUM` con diferentes equipos srum
 
-Este proyecto está aun en desarrollo por otros estudiantes de la institución y sus repositorios son privados, por privacidad de los involucrados.
+Este proyecto está aun en desarrollo por otros estudiantes de la institución y sus repositorios finales son privados.
 
 * Base de datos : `PostgreSQL` `H2`
 * Lenguaje: `JavaScript`  `TypeScript` `Java`
